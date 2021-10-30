@@ -1,5 +1,5 @@
 
-import {pass,R,C,T} from './rectangles/Rectangles.js'
+import {pass,R,C,T} from 'Rectangles.js'
 
 /* Plain Pad app made of entirely rectangles.js components */
 function Dash(){
@@ -421,7 +421,7 @@ function Branding(props){
         <R l {...pass(props)}>
 
             <C l p = "0 0 0 25" s = {"70px"}>{/* Plain Pad Logo */}
-                <img src = {"rectangles/d.png"} style={{height:"50%"}} />
+                <img src = {"images/d.png"} style={{height:"50%"}} />
             </C>
             
             <C l ns mc s = {"100px"}>
