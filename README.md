@@ -1,2 +1,2 @@
 # rectangles_demo
-demo of the rectangles framework
+demo of the <a href = "http://jacobhoffman.tk/rectangles/">rectangles</a> framework
